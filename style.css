@@ -1,0 +1,36 @@
+
+<style type="text/css">
+.h1{
+color:#556B2F;
+}
+.gannu img{ animation:heartbeat 5s linear infinite;}
+@keyframes heartbeat
+{
+0%
+{
+ transform: scale(.75);
+}
+20%
+{
+ transform: scale(1);
+}
+40%
+{
+ transform: scale(.75);
+}
+60%
+{
+ transform: scale(1);
+}
+80%
+{
+ transform: scale(.75);
+}
+100%
+{
+ transform: scale(.75);
+}
+}
+</sytle>
+
+
